@@ -1,5 +1,5 @@
 <?php
-include '../muamalat-login-1/php/koneksi.php';
+include '../muamalat-login/php/koneksi.php';
 $idError = "";
 $passError = "";
 if (isset($_POST['login'])) {
